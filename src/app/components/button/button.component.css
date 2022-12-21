@@ -1,0 +1,14 @@
+input{
+    height: 20px;
+    margin: 4%;
+    padding: 4%;
+    width: 400px;
+}
+input:hover{
+    background-color: brown;
+}
+button{
+    margin: 2% 4%;
+    width: 400px;
+    padding: 2%;
+}

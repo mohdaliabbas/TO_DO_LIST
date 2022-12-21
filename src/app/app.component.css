@@ -1,0 +1,25 @@
+.c{
+    background-color: rgb(168, 165, 195);
+    margin-bottom: 200px;
+    /* margin: 300px; */
+}
+.container{
+    /* margin-top: 100px; */
+    margin-bottom: 100px;
+    background-color: rgb(203, 205, 173);
+    /* border: border-box; */
+    /* box-shadow: 5x 10px; */
+    /* margin-bottom: 500px; */
+
+}
+.body{
+    background-color: rgb(46, 101, 149);
+    margin-bottom: 200px;
+    /* margin: 2%; */
+
+}
+.footer{
+    margin: auto;
+    background-image: url(src/assets/download.jpg);
+    /* background-color: red; */
+}

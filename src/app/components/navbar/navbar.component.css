@@ -1,0 +1,24 @@
+
+.lii{
+    display:flex;
+    flex-direction: row;
+    text-decoration: none;
+    list-style: none;
+    /* flex-flow: ; */
+    /* space-between */
+    flex-basis: space-around;
+    /* justify-content: center; */
+}
+li{
+    margin: 1%;
+    color: aliceblue;
+    /* background-color: rgb(199, 206, 212); */
+    padding: 1%;
+    margin-bottom:10px;
+    /* display: flex; */
+    /* float: left; */
+    /* flex-basis: auto; */
+}
+li:hover{
+    background-color: aliceblue;
+}
